@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="actionBarHeight">50dp</dimen>
+    <dimen name="displayCountDownWidth">100dp</dimen>
+    <dimen name="marginAll">50dp</dimen>
+
+</resources>
